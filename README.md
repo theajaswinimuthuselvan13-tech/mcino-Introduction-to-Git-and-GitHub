@@ -39,4 +39,4 @@ Total Amount = 1000 + 100 = 1100
 ## Purpose
 
 This project demonstrates a basic financial calculation and introduces the use of GitHub for collaborative software development.
-
+This repository demonstrates Git and GitHub collaboration.
