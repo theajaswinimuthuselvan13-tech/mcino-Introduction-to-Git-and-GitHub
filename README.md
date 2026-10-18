@@ -26,7 +26,7 @@ Total Amount = 1000 + 100 = 1100
 
 ## Technology Used
 
-- Bash scripting
+- Bash scripting (Simple Interest Calculator)
 - Git and GitHub
 
 ## How to Use
